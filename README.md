@@ -4,8 +4,9 @@ este repositorio es creado para la primera tareas que es que cada uno de los mie
   BADJ PROJECT 
    
    Equipo scrum:
+   
     NOMBRE : Andres CamiloCampbell Villa
-    CORREO : camiloandres200419@gamil.com 
+    CORREO : camiloandres200419@gmail.com
     ROL : administrador de BD
     
     NOMBRE : Brayan Jose Castillo Barroso
