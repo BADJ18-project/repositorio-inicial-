@@ -18,5 +18,5 @@ este repositorio es creado para la primera tareas que es que cada uno de los mie
     ROL : programador 
     
     NOMBRE : Deiner Andres orozco Mojica 
-    CORREO : 
+    CORREO : Orozcomojicadeiner@gmail.com
     ROL : programador 
